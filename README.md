@@ -1,7 +1,7 @@
 # Implementation of Multivariate Linear Regression
-NAME : PRASANTH E
+NAME : AGILAN J
 
-REG NUM : 212221233002
+REG NUM : 24900503
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
@@ -23,8 +23,8 @@ Print the predicted output.
 
 ## Program:
 ```
-# Developed by : PRASANTH E
-# Register No : 212221233002
+# Developed by : AGILAN J
+# Register No : 24900503
 
 import pandas as pd
 from sklearn import linear_model
